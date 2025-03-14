@@ -1,0 +1,11 @@
+com\algaworks\erp\service\CadastroEmpresaService.class
+com\algaworks\erp\util\EntityManagerProducer.class
+com\algaworks\erp\model\RamoAtividade.class
+com\algaworks\erp\util\Transacional.class
+com\algaworks\erp\repository\RamoAtividades.class
+com\algaworks\erp\util\TransacionalInterceptor.class
+com\algaworks\erp\model\Empresa.class
+com\algaworks\erp\model\TipoEmpresa.class
+com\algaworks\erp\repository\SchemaGeneration.class
+com\algaworks\erp\repository\CamadaPersistencia.class
+com\algaworks\erp\repository\Empresas.class
